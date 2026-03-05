@@ -89,3 +89,25 @@ let atletas = [
    notas: [10, 10, 10, 9, 9.5]
  }
 ];
+
+📚 Conceitos de JavaScript Utilizados
+
+Durante o desenvolvimento foram utilizados diversos conceitos da linguagem:
+
+Arrays
+
+Objetos
+
+Laços de repetição (for)
+
+Métodos de array:
+
+sort()
+
+slice()
+
+forEach()
+
+Manipulação de dados
+
+console.log()
